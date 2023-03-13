@@ -1,5 +1,5 @@
 # MBAPPÉ Project
-[Direct Link to the Code](https://github.com/isi-mube/iron-labs/blob/main/project-mbappe/project-mbapp%C3%A9.ipynb)
+[Click me!](https://github.com/isi-mube/iron-labs/blob/main/project-mbappe/project-mbapp%C3%A9.ipynb)
 
 ## About the Project
 The objective of this **project** is to identify young soccer players who posses the potential to become **the next Kylian Mbappé**. The [original](https://github.com/isi-mube/data_mid_bootcamp_project_FIFA_MoneyBall) project was completed in 5 days in collaboration with my fellow Ironhack classmates, [Nati](https://github.com/natnaelfe) & [Hugo](https://github.com/HugoIronhack).
