@@ -15,10 +15,10 @@ After reading the [documentation](https://www.kaggle.com/datasets/ekrembayar/fif
 
 ## Updates
 * **Libraries:** This time, we use `os` to be proficent with other ways of opening the data. Also, they were re-organized for readibility.
-* **Functions** The following functions were added `data_info`, `clean_columns`, `check_null_cols`, `check_nan_cols` & `is_significant` to improve our workflow.
-* All the work has been documented, explaining everystep and avoiding redudancy. It should be DA-readebly friednly.
+* **Functions:** The following functions were added `data_info`, `clean_columns`, `check_null_cols`, `check_nan_cols` & `is_significant` to improve our workflow.
+* All the work has been documented, explaining everystep and avoiding redudancy
 * The project's **size** has been reduced, making it more readble and efficent. From 1.45 MB (7.265 lines) to 904 KB (8.184 lines)
-* **Cleaning the Data** step had been improved and simplified. We added some extra code for visualization of the changes.
+* **Cleaning the Data:** step had been improved and simplified. We added some extra code for visualization of the changes.
 * **Plots:** Still not my strongest point. Normalization plots had been improved, also the Linear Regression results.
 * **Rounding after normalization** in this case, we did not round our numericals.
 
