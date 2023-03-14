@@ -24,10 +24,10 @@ After reading the [documentation](https://www.kaggle.com/datasets/ekrembayar/fif
 
 
 ## Results and Discussion
-R2 =  1.0
-RMSE =  1.1837269792931977e-13
-The value of the metric MSE is  1.4012095615065982e-26
-MAE =  7.482272230109035e-14
+* R2 =  1.0
+( RMSE =  1.1837269792931977e-13
+* The value of the metric MSE is  1.4012095615065982e-26
+* MAE =  7.482272230109035e-14
 
 After all the modifications, we probably overfitted the model. Also, we forgot to drop `bov` or `ova`, two features that are highly correlated.
 
