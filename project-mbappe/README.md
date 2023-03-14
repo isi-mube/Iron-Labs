@@ -31,6 +31,9 @@ MAE =  7.482272230109035e-14
 
 After all the modifications, we probably overfitted the model. Also, we forgot to drop `bov` or `ova`, two features that are highly correlated.
 
+![image](https://user-images.githubusercontent.com/90038586/224920887-ec4049db-7961-4d83-a2e6-025d6f3ab5ee.png)
+
+
 ## Furhter improvments
 * Add new datasets to have historical data and make a better prediction.
 * Checking again multicollinearity.
