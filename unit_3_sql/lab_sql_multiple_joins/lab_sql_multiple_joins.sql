@@ -17,11 +17,11 @@ JOIN sakila.city AS C ON A.city_id = C.city_id;
 ## 02 ## Write a query to display how much business, in dollars, each store brought in.
 -- Which tables? payment, rental, inventory
 -- Which keys? rental_id, inventory_id
-SELECT I.store_id, SUM(P.amount) AS total_money
-FROM sakila.payment AS P
-JOIN sakila.rental AS R ON P.rental_id = R.rental_id
-JOIN sakila.inventory AS I ON R.inventory_id = I.inventory_id
-GROUP BY I.store_id;
+SELECT store_id, SUM(payment.amount) AS total_money
+FROM sakila.store
+JOIN customer ON store.store_id = customer.store.id
+JOIN payment ON customer.customer_id = payment.customer_id
+GROUP BY store.store_id;
 
 ## 03 ## What is the average running time of films by category?
 -- Which tables? film, film_category, category
