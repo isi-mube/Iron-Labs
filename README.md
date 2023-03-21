@@ -14,6 +14,8 @@ A repo to store and share solved data analytics bootcamp assignments.
 * Lab | customer-analysis-round-7: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_1_py/lab-customer-analysis-round-7)
 * Lab | customer-analysis-final-round: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_1_py/lab-customer-analysis-final-round)
 
+_______________________
+
 ### **unit_2** | sql
 * activities: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_2_sql/Activities)
 * Lab | sql-intro: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_2_sql/lab-sql-intro)
