@@ -16,7 +16,7 @@ ______________________
 
 _______________________
 
-### **unit_2** | sql
+### **unit_2** | SQL
 * activities: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_2_sql/Activities)
 * Lab | sql-intro: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_2_sql/lab-sql-intro)
 * Lab | sql-basics: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_2_sql/lab-sql-basics)
@@ -29,3 +29,8 @@ _______________________
 * Lab | sql-7: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_2_sql/lab-sql-7)
 * Lab | sql-8: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_2_sql/lab-sql-8)
 * Lab | sql-9: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_2_sql/lab-sql-9)
+
+### **unit_3** | MOAR SQL
+* Lab | sql-join: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_3_sql/lab_sql_join)
+* Lab | sql-multiple-joins: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_3_sql/lab_sql_multiple_joins)
+* Lab | sql-self-and-cross-join: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql/lab_sql_self_and_cross_join_imb_solution.sql)
