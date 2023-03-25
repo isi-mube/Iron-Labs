@@ -1,5 +1,5 @@
 # Data Activity
-A repo to store and share solved data analytics bootcamp assignments.
+A repo to store and share solved data analytics assignments and side projeects.
 ______________________
 ### **unit_1** | bash, git, python
 * activities: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_1_py/Activites)
@@ -30,6 +30,13 @@ _______________________
 * Lab | sql-8: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_2_sql/lab-sql-8)
 * Lab | sql-9: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_2_sql/lab-sql-9)
 
+_______________________
+
+### **mini-project** | ML | ElasticNet | Regression practice
+* [v2](https://github.com/isi-mube/mbappe-project/blob/main/notebook/project-mbapp%C3%A9.ipynb)
+* [v1](https://github.com/isi-mube/iron-labs/blob/main/project-mbappe/project-mbapp%C3%A9.ipynb)
+* [Original](https://github.com/isi-mube/data_mid_bootcamp_project_FIFA_MoneyBall)
+
 ______________________
 
 ### **unit_3** | moar SQL
@@ -38,4 +45,9 @@ ______________________
 * Lab | sql-self-and-cross-join: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql/lab_sql_self_and_cross_join_imb_solution.sql)
 * Lab | sql-subqueries: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql/lab_sql_subqueries_imb_solution.sql)
 * Lab | sql-advanced-queries: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql/lab_sql_advancedqueries_imb_solution.sql)
+
+_______________________
+
+### **mini-project** | pizza-hunt | TensorFlow | Image Classification practice
+* [Click me (in progress)](https://github.com/isi-mube/iron-labs/tree/main/pizza-hunt)
 
