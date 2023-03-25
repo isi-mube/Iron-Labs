@@ -37,4 +37,5 @@ ______________________
 * Lab | sql-multiple-joins: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_3_sql/lab_sql_multiple_joins)
 * Lab | sql-self-and-cross-join: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql/lab_sql_self_and_cross_join_imb_solution.sql)
 * Lab | sql-subqueries: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql/lab_sql_subqueries_imb_solution.sql)
+* Lab | sql-advanced-queries: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql/lab_sql_advancedqueries_imb_solution.sql)
 
