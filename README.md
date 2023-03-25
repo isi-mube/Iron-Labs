@@ -32,10 +32,10 @@ _______________________
 
 _______________________
 
-### **mini-project** | ML | ElasticNet | Regression practice
-* [v2](https://github.com/isi-mube/mbappe-project/blob/main/notebook/project-mbapp%C3%A9.ipynb)
-* [v1](https://github.com/isi-mube/iron-labs/blob/main/project-mbappe/project-mbapp%C3%A9.ipynb)
-* [Original](https://github.com/isi-mube/data_mid_bootcamp_project_FIFA_MoneyBall)
+### **mini-project** | Machine Learning Regression Practice
+* [v2](https://github.com/isi-mube/mbappe-project/blob/main/notebook/project-mbapp%C3%A9.ipynb) | ElasticNet
+* [v1](https://github.com/isi-mube/iron-labs/blob/main/project-mbappe/project-mbapp%C3%A9.ipynb) | Linear Regression, Lasso, Ridge, ElasticNet
+* [Original](https://github.com/isi-mube/data_mid_bootcamp_project_FIFA_MoneyBall) | Linear Regression
 
 ______________________
 
@@ -48,6 +48,6 @@ ______________________
 
 _______________________
 
-### **mini-project** | pizza-hunt | TensorFlow | Image Classification practice
-* [Click me (in progress)](https://github.com/isi-mube/iron-labs/tree/main/pizza-hunt)
+### **mini-project** | In progress | Machine Learning Image Classification practice
+* [Click me](https://github.com/isi-mube/iron-labs/tree/main/pizza-hunt) | TensorFlow
 
