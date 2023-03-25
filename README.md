@@ -48,6 +48,6 @@ ______________________
 
 _______________________
 
-### **mini-project** | In progress | Machine Learning Image Classification Practice
+### **mini-project** | In Progress | Machine Learning Image Classification Practice
 * [Click me](https://github.com/isi-mube/iron-labs/tree/main/pizza-hunt) | TensorFlow
 
