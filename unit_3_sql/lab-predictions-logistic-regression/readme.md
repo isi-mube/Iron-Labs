@@ -1,4 +1,4 @@
-# Rent Predictor
+# MovieRent Predictor
 1. [SQL script](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql/lab-predictions-logistic-regression/notebook/sql_database_extraction_process.sql)
 2. [Python script](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql/lab-predictions-logistic-regression/notebook/imb_solution_lab_logistic_regression.ipynb)
 
