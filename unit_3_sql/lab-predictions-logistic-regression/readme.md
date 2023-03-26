@@ -1,16 +1,46 @@
-![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
+# movie Vision 
+1. [SQL](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql/lab-predictions-logistic-regression/notebook/sql_database_extraction_process.sql)
+2. [Python](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql/lab-predictions-logistic-regression/notebook/imb_solution_lab_logistic_regression.ipynb)
 
-# Lab | Making predictions with logistic regression
+## About the Project
+The objective of this **project** is to identify the probability of a movie to being rented again based on a collection of over **one-year** historical data (from 2005/05/24 to 2006/02/14).
 
-In this lab, you will be using the [Sakila](https://dev.mysql.com/doc/sakila/en/) database of movie rentals.
+This reposatory is meant to improve [my previous knowledge](https://github.com/isi-mube/mbappe-project), this time with Logistic Regression.
 
-In order to optimize our inventory, we would like to know which films will be rented next month and we are asked to create a model to predict it.
+## About the Dataset
+Please refer to [SQL](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql/lab-predictions-logistic-regression/notebook/sql_database_extraction_process.sql) to read the full detail of the dataset extraction process.
 
-### Instructions
+## Update from previous project
+* **Organization**: This time, we have one script for SQL another for Python, describing the process step by step.
+* **EntropyBonus**: We fixed an error in GitHub where the code was showing horizonztally, it was due the HTML boxes.
 
-1. Create a query or queries to extract the information you think may be relevant for building the prediction model. It should include some film features and some rental features.
-2. Read the data into a Pandas dataframe.
-3. Analyze extracted features and transform them. You may need to encode some categorical variables, or scale numerical variables.
-4. Create a query to get the list of films and a boolean indicating if it was rented last month. This would be our target variable.
-5. Create a logistic regression model to predict this variable from the cleaned data.
-6. Evaluate the results.
+## Results & Discussion
+Our model has:
+
+* 144 True Positives Vs 14 False Positives
+* 132 True Negatives Vs 10 False Negatives
+And an accuaracy of 92%... quite solid!
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90038586/227800891-0ec7accb-fa17-4aaa-a1e5-2ab805e6b105.png"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90038586/227800913-4e1194fb-5cd7-4950-802e-c0205de89505.png"/>
+</p>
+
+## Tools
+**Enviornment**
+* VSCode and Jupyter Notebook
+
+**Libraries**
+* **Data manipulation:** pandas
+* **Numerical operations:** numpy
+* **Visualization:** matplotlib, seaborn
+* **Settings:** warnings
+* **SQL connection:** getpass, create_engine
+* **Machine Learning:** scikit-learn
+* **Preprocessing:** LabelEncoder
+* **Model selection:** train test split
+* **Logistic model:** LogisticRegression
+* **Metrics evaluation:** accuracy_score, confusion_matrix, ConfusionMatrixDisplay, metrics
