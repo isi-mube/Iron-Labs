@@ -40,7 +40,7 @@ WITH rental_counts AS
 	(SELECT I.film_id, COUNT(*) AS n_rentals
 	FROM rental AS R
 		LEFT JOIN inventory AS I USING (inventory_id)
-	WHERE R.rental_date BETWEEN '2005-05-01' AND '2005-12-31'
+	WHERE R.rental_date BETWEEN '2005-05-01' AND '2006-03-01'
 	GROUP BY I.film_id)
 SELECT F.film_id, F.rental_duration, F.rental_rate, F.length, F.rating, F.special_features, C.name, RC.n_rentals
 FROM film AS F
@@ -54,7 +54,7 @@ WITH rental_counts AS
 	(SELECT I.film_id, COUNT(*) AS n_rentals
     FROM rental AS R
     LEFT JOIN inventory AS I USING (inventory_id)
-    WHERE R.rental_date BETWEEN '2005-05-01' AND '2005-12-31'
+    WHERE R.rental_date BETWEEN '2005-05-01' AND '2006-03-01'
     GROUP BY I.film_id)
 SELECT F.film_id, F.rental_duration, F.rental_rate, F.length, F.rating, F.special_features, C.name, RC.n_rentals
 FROM film AS F
