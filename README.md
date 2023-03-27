@@ -50,7 +50,7 @@ ______________________
 _______________________
 
 ### **movie-rent-predictor** | Machine Learning Logistic Regression Practice
-* [Click me](https://github.com/isi-mube/movie-rent-predictor) |
+* [Click me](https://github.com/isi-mube/movie-rent-predictor)
 
 _______________________
 
