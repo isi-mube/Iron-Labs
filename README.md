@@ -46,6 +46,7 @@ ______________________
 * Lab | sql-subqueries: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql/lab_sql_subqueries_imb_solution.sql)
 * Lab | sql-advanced-queries: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql/lab_sql_advancedqueries_imb_solution.sql)
 * Lab | sql-python-logistic-regression: [click me](https://github.com/isi-mube/movie-rent-predictor)
+* Lab | sql-imbalanced-data: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_3_sql/lab-imbalanced-data)
 
 _______________________
 
