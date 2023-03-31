@@ -32,7 +32,7 @@ _______________________
 
 _______________________
 
-### **project-mbappé** | Machine Learning Regression Practice
+### **project-mbappé** | Machine Learning Linear Regression Practice
 * [v2](https://github.com/isi-mube/mbappe-project/blob/main/notebook/project-mbapp%C3%A9.ipynb) | ElasticNet
 * [v1](https://github.com/isi-mube/iron-labs/blob/main/project-mbappe/project-mbapp%C3%A9.ipynb) | Linear Regression, Lasso, Ridge, ElasticNet
 * [Original](https://github.com/isi-mube/data_mid_bootcamp_project_FIFA_MoneyBall) | Linear Regression
@@ -45,6 +45,12 @@ ______________________
 * Lab | sql-self-and-cross-join: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql/lab_sql_self_and_cross_join_imb_solution.sql)
 * Lab | sql-subqueries: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql/lab_sql_subqueries_imb_solution.sql)
 * Lab | sql-advanced-queries: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql/lab_sql_advancedqueries_imb_solution.sql)
+* Lab | sql-python-logistic-regression: [click me](https://github.com/isi-mube/movie-rent-predictor)
+
+_______________________
+
+### **movie-rent-predictor** | Machine Learning Logistic Regression Practice
+* [Click me](https://github.com/isi-mube/movie-rent-predictor)
 
 _______________________
 
