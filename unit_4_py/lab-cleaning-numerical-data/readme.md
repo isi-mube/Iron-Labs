@@ -9,5 +9,5 @@ The objective of this **project** is to define the profile of the most profitabl
 ## Improvements from previous project
 * **OS**: We got used it more often.
 * **Functions**: We stored them in a different folder to later import them as a library. Gràcies, Camille :)
-* **IDE**: JupyterLabs over JupyterNotebook. Personal preference, trying different IDE.
+* **IDE**: JupyterLabs over JupyterNotebook. Personal preference, exploring other IDE.
 * **Documentation**: # instead of color-boxes.
