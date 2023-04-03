@@ -1,6 +1,5 @@
 #
 
-under_construction #soon
 
 ## About the Project
 The objective of this **project** is to define the profile of the most profitable customers, by analazying a collection of **9.134** customer data, including demographics and buying patterns.
