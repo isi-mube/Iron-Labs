@@ -8,14 +8,13 @@ def open_data(data): # returns shape, data types & shows a small sample
     print("Data row sample and full columns:")
     return data.sample(5)
 
-def explore_data(data):
-    empty_spaces = data.eq(' ').sum()
-    nan_values = data.isna().sum()
-    null_values = data.isnull().sum()
+def explore_data(data): # sum & returns duplicates, NaN & empty spaces
     duplicate_rows = data.duplicated().sum()
+    nan_values = data.isna().sum()
+    empty_spaces = data.eq(' ').sum()
     import pandas as pd
-    exploration = pd.DataFrame({"EmptySpaces": empty_spaces, "NaN": nan_values, "Null" : null_values})
-    print(f"There are {duplicate_rows} duplicate rows. Also;")
+    exploration = pd.DataFrame({"NaN": nan_values, "EmptySpaces": empty_spaces}) # New dataframe with the results
+    print(f"There are {data.duplicated().sum()} duplicate rows. Also;")
     return exploration
 
 def snake_columns(data): # snake_case columns
