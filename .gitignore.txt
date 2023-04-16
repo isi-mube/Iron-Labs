@@ -1,0 +1,2 @@
+project_02_logistic_regression/
+unit_3_sql_py/
