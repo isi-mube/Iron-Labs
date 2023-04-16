@@ -59,6 +59,7 @@ ______________________
 * Lab | lab-cleaning-numerical-data: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_4_py/lab-cleaning-numerical-data)
 * Lab | lab-cleaning-categorical-data: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_4_py/lab-cleaning-categorical-data)
 * Lab | lab-feature-extraction: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_4_py/lab-feature-extraction)
+* Lab | lab-data-cleaning-and-wrangling: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_4_py/lab-data-cleaning-and-wrangling/02_solution/imb_solution.ipynb)
 
 _______________________
 
