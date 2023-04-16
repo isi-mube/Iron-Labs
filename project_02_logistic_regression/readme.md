@@ -1,6 +1,6 @@
 # MovieRent Predictor
-1. [SQL script](https://github.com/isi-mube/movie-rent-predictor/blob/main/notebook/sql_database_extraction_process.sql)
-2. [Python script](https://github.com/isi-mube/movie-rent-predictor/blob/main/notebook/imb_solution_lab_logistic_regression.ipynb)
+1. [SQL script](https://github.com/isi-mube/iron-labs/blob/main/project_02_logistic_regression/notebook/sql_database_extraction_process.sql)
+2. [Python script](https://github.com/isi-mube/iron-labs/blob/main/project_02_logistic_regression/notebook/imb_solution_lab_logistic_regression.ipynb)
 
 ## About the Project
 The objective of this **project** is to determine the probability of a movie to being rented again based on a collection of over **one-year** historical data (from 2005/05/24 to 2006/02/14).
