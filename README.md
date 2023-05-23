@@ -61,6 +61,11 @@ ______________________
 * Lab | lab-feature-extraction: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_4_py/lab-feature-extraction)
 * Lab | lab-data-cleaning-and-wrangling: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_4_py/lab-data-cleaning-and-wrangling/02_solution/imb_solution.ipynb)
 
+______________________
+
+### **unit_6** | python, SQL
+* Lab | lab-stored-procedures: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-stored-procedures/imb_solution_last_sql.sql)
+
 _______________________
 
 ### **pizza-hunt** | Project In Progress | Machine Learning Image Classification Practice
