@@ -66,8 +66,11 @@ ______________________
 ### **unit_6** | python, SQL
 * Lab | lab-stored-procedures: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-stored-procedures/imb_solution_last_sql.sql)
 
+[Needs an upgrade...]
+
+______________________
+
+### **unit_7** | python
+* Lab | lab-revisiting-machine-learning: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-revisiting-machine-learning/imb_solution.ipynb)
+
 _______________________
-
-### **pizza-hunt** | Project In Progress | Machine Learning Image Classification Practice
-* [Click me](https://github.com/isi-mube/iron-labs/tree/main/pizza-hunt) | TensorFlow
-
