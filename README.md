@@ -63,14 +63,21 @@ ______________________
 
 ______________________
 
-### **unit_6** | python, SQL
-* Lab | lab-stored-procedures: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-stored-procedures/imb_solution_last_sql.sql)
-
-[Needs an upgrade...]
+### **patent-pending** | Machine Learning Linear Regression Practice
+* [Click me](https://github.com/isi-mube/patent-pending) RandomForestRegressor
 
 ______________________
 
-### **unit_7** | python
+### **unit_6** | python, SQL, tableau
+* Lab | lab-stored-procedures: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-stored-procedures/imb_solution_last_sql.sql)
+
+[Needs an upgrade with Tableau labs...]
+
+______________________
+
+### **unit_7** | python, statistics
 * Lab | lab-revisiting-machine-learning: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-revisiting-machine-learning/imb_solution.ipynb)
+* Lab | lab-feature-engineering: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-feature-engineering/imb_solution.ipynb)
+* Lab | lab-inferential-statistics: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-inferential-statistics/imb_solution.ipynb)
 
 _______________________
