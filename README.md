@@ -64,7 +64,7 @@ ______________________
 ______________________
 
 ### **patent-pending** | Machine Learning Linear Regression Practice
-* [Click me](https://github.com/isi-mube/patent-pending) RandomForestRegressor
+* [Click me](https://github.com/isi-mube/patent-pending) | RandomForestRegressor
 
 ______________________
 
