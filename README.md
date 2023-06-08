@@ -80,5 +80,6 @@ ______________________
 * Lab | lab-feature-engineering: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-feature-engineering/imb_solution.ipynb)
 * Lab | lab-inferential-statistics: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-inferential-statistics/imb_solution.ipynb)
 * Lab | lab-t-tests-p-values: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-t-tests-p-values/imb_solution.ipynb)
+* Lab | lab-inferential-statistics-anova: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-inferential-statistics-anova/imb_solution.ipynb)
 
 _______________________
