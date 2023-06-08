@@ -64,7 +64,7 @@ ______________________
 ______________________
 
 ### **patent-pending** | Machine Learning Linear Regression Practice
-* [Click me](https://github.com/isi-mube/patent-pending) RandomForestRegressor
+* [Click me](https://github.com/isi-mube/patent-pending) | RandomForestRegressor
 
 ______________________
 
@@ -79,5 +79,6 @@ ______________________
 * Lab | lab-revisiting-machine-learning: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-revisiting-machine-learning/imb_solution.ipynb)
 * Lab | lab-feature-engineering: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-feature-engineering/imb_solution.ipynb)
 * Lab | lab-inferential-statistics: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-inferential-statistics/imb_solution.ipynb)
+* Lab | lab-t-tests-p-values: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-t-tests-p-values/imb_solution.ipynb)
 
 _______________________
