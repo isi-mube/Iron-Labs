@@ -72,6 +72,7 @@ ______________________
 ______________________
 
 ### **unit_6** | python, SQL, tableau
+* Lab | lab-manipulating-data-from-multiple-sources: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_6_tableau_sql/lab-tableau-manipulating-data-from-multiple-sources)
 * Lab | lab-stored-procedures: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-stored-procedures/imb_solution_last_sql.sql)
 
 [Needs an upgrade with Tableau labs...]
