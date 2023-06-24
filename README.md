@@ -60,6 +60,9 @@ ______________________
 * Lab | lab-cleaning-categorical-data: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_4_py/lab-cleaning-categorical-data)
 * Lab | lab-feature-extraction: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_4_py/lab-feature-extraction)
 * Lab | lab-data-cleaning-and-wrangling: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_4_py/lab-data-cleaning-and-wrangling/02_solution/imb_solution.ipynb)
+* Lab | lab-comparing-regression-models: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_4_py/lab-comparing-regression-models/02_solution/imb_solution.ipynb)
+* Lab | lab-random-variable-distributions: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_4_py/lab-random-variable-distributions/imb_solution.ipynb)
+
 
 ______________________
 
@@ -69,6 +72,7 @@ ______________________
 ______________________
 
 ### **unit_6** | python, SQL, tableau
+* Lab | lab-manipulating-data-from-multiple-sources: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_6_tableau_sql/lab-tableau-manipulating-data-from-multiple-sources)
 * Lab | lab-stored-procedures: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-stored-procedures/imb_solution_last_sql.sql)
 
 [Needs an upgrade with Tableau labs...]
@@ -80,5 +84,6 @@ ______________________
 * Lab | lab-feature-engineering: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-feature-engineering/imb_solution.ipynb)
 * Lab | lab-inferential-statistics: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-inferential-statistics/imb_solution.ipynb)
 * Lab | lab-t-tests-p-values: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-t-tests-p-values/imb_solution.ipynb)
+* Lab | lab-inferential-statistics-anova: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-inferential-statistics-anova/imb_solution.ipynb)
 
 _______________________
