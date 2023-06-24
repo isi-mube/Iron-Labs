@@ -72,7 +72,7 @@ ______________________
 
 ______________________
 
-### ### **unit_5** | **patent-pending** | mid-project | Machine Learning Linear Regression Practice
+### **unit_5** | **patent-pending** | mid-project | Machine Learning Linear Regression Practice
 * [Click me](https://github.com/isi-mube/patent-pending) | RandomForestRegressor
 
 ______________________
