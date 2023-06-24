@@ -71,7 +71,7 @@ ______________________
 
 ______________________
 
-### **unit_6** | python, SQL, tableau
+### **unit_6** | python, SQL, tableau, excel
 * Lab | lab-manipulating-data-from-multiple-sources: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_6_tableau_sql/lab-tableau-manipulating-data-from-multiple-sources)
 * Lab | lab-stored-procedures: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-stored-procedures/imb_solution_last_sql.sql)
 
@@ -88,5 +88,12 @@ ______________________
 
 _______________________
 
-### **unit_8** | python, web scrapping
+### **When-You-Wish-Upon-A-Star** | Image Classification, TensorFlow & Keras Practice
+* [Click me](https://github.com/isi-mube/When-You-Wish-Upon-A-Star) | Computer Vision
+
+______________________
+
+### **unit_8** | python, web scrapping, api
 * Lab | lab-rweb-scraping-single-page: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-web-scraping-single-page/imb_solution.ipynb)
+
+______________________
