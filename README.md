@@ -103,5 +103,7 @@ ______________________
 
 ### **unit_8** | python, web scrapping, api
 * Lab | lab-rweb-scraping-single-page: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-web-scraping-single-page/imb_solution.ipynb)
+* Lab | lab-rweb-scraping-multiple-pages: [don't click me]()
+* Lab | lab-working-with-api: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-working-with-api/imb_solution.ipynb)
 
 ______________________
