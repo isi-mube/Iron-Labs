@@ -1,5 +1,11 @@
 # Data Activity
 A repo to store and share solved data analytics assignments and side projects.
+
+_______________________
+
+### **tailor-s-drawer** | Messy repo with functions, libraries, templates & guides
+* [Click me](https://github.com/isi-mube/tailor-s-drawer)
+  
 ______________________
 ### **unit_1** | bash, git, python
 * activities: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_1_py/Activites)
@@ -71,7 +77,7 @@ ______________________
 
 ______________________
 
-### **unit_6** | python, SQL, tableau
+### **unit_6** | python, SQL, tableau, excel
 * Lab | lab-manipulating-data-from-multiple-sources: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_6_tableau_sql/lab-tableau-manipulating-data-from-multiple-sources)
 * Lab | lab-stored-procedures: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-stored-procedures/imb_solution_last_sql.sql)
 
@@ -86,4 +92,16 @@ ______________________
 * Lab | lab-t-tests-p-values: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-t-tests-p-values/imb_solution.ipynb)
 * Lab | lab-inferential-statistics-anova: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-inferential-statistics-anova/imb_solution.ipynb)
 
+[Needs an upgrade with last labs... (labs overlap, badum tss...]
+
 _______________________
+
+### **When-You-Wish-Upon-A-Star** | Image Classification, TensorFlow & Keras Practice
+* [Click me](https://github.com/isi-mube/When-You-Wish-Upon-A-Star) | Computer Vision
+
+______________________
+
+### **unit_8** | python, web scrapping, api
+* Lab | lab-rweb-scraping-single-page: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-web-scraping-single-page/imb_solution.ipynb)
+
+______________________
