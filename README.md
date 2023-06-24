@@ -87,3 +87,6 @@ ______________________
 * Lab | lab-inferential-statistics-anova: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-inferential-statistics-anova/imb_solution.ipynb)
 
 _______________________
+
+### **unit_8** | python, web scrapping
+* Lab | lab-rweb-scraping-single-page: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-web-scraping-single-page/imb_solution.ipynb)
