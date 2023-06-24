@@ -92,6 +92,8 @@ ______________________
 * Lab | lab-t-tests-p-values: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-t-tests-p-values/imb_solution.ipynb)
 * Lab | lab-inferential-statistics-anova: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-inferential-statistics-anova/imb_solution.ipynb)
 
+[Needs an upgrade with last labs... (labs overlap, badum tss...]
+
 _______________________
 
 ### **When-You-Wish-Upon-A-Star** | Image Classification, TensorFlow & Keras Practice
