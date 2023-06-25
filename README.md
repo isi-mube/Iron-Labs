@@ -38,7 +38,7 @@ _______________________
 
 _______________________
 
-### **project-mbappé** | Machine Learning Linear Regression Practice
+### **project-mbappé** | mini-project | Machine Learning Linear Regression Practice
 * [v2](https://github.com/isi-mube/mbappe-project/blob/main/notebook/project-mbapp%C3%A9.ipynb) | ElasticNet
 * [v1](https://github.com/isi-mube/iron-labs/blob/main/project-mbappe/project-mbapp%C3%A9.ipynb) | Linear Regression, Lasso, Ridge, ElasticNet
 * [Original](https://github.com/isi-mube/data_mid_bootcamp_project_FIFA_MoneyBall) | Linear Regression
@@ -72,7 +72,7 @@ ______________________
 
 ______________________
 
-### **patent-pending** | Machine Learning Linear Regression Practice
+### **unit_5** | **patent-pending** | mid-project | Machine Learning Linear Regression Practice
 * [Click me](https://github.com/isi-mube/patent-pending) | RandomForestRegressor
 
 ______________________
@@ -103,7 +103,7 @@ ______________________
 
 ### **unit_8** | python, web scrapping, api
 * Lab | lab-rweb-scraping-single-page: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-web-scraping-single-page/imb_solution.ipynb)
-* Lab | lab-rweb-scraping-multiple-pages: [don't click me]()
+* Lab | lab-rweb-scraping-multiple-pages: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_8_py/lab-web-scraping-multiple-pages)
 * Lab | lab-working-with-api: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-working-with-api/imb_solution.ipynb)
 
 ______________________
