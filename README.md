@@ -69,6 +69,7 @@ ______________________
 * Lab | lab-comparing-regression-models: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_4_py/lab-comparing-regression-models/02_solution/imb_solution.ipynb)
 * Lab | lab-random-variable-distributions: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_4_py/lab-random-variable-distributions/imb_solution.ipynb)
 * Lab | lab-getting-started-with-tableau: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_4_py/lab-getting-started-with-tableau/imb_solution.ipynb)
+* Lab | lab-dashboards-with-tableau: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_4_py/lab-dashboards-with-tableau)
 
 ______________________
 
