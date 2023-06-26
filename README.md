@@ -80,9 +80,14 @@ ______________________
 
 ### **unit_6** | python, SQL, tableau, excel
 * Lab | lab-manipulating-data-from-multiple-sources: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_6_tableau_sql/lab-tableau-manipulating-data-from-multiple-sources)
+* Lab | lab-grouping-data: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-grouping-data/files_for_lab/grouping_data.url)
+* Lab | lab-lod-expressions-dashboards: [click me]()
+* Lab | lab-aggregation-revisited-subqueries: [click me]()
 * Lab | lab-stored-procedures: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-stored-procedures/imb_solution_last_sql.sql)
-
-[Needs an upgrade with Tableau labs...]
+* Lab | lab-sql-iterations: [click me]()
+* Lab | lab-extra-streamlit: [click me]()
+* Lab | lab-macros-intro: [click me]()
+* Lab | lab-macros-automated-report-generation: [click me]()
 
 ______________________
 
@@ -92,8 +97,9 @@ ______________________
 * Lab | lab-inferential-statistics: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-inferential-statistics/imb_solution.ipynb)
 * Lab | lab-t-tests-p-values: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-t-tests-p-values/imb_solution.ipynb)
 * Lab | lab-inferential-statistics-anova: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-inferential-statistics-anova/imb_solution.ipynb)
-
-[Needs an upgrade with last labs... (labs overlap, badum tss...]
+* Lab | lab-handling-data-imbalance-in-classification-models: [click me]()
+* Lab | lab-cross-validation: [click me]()
+* Lab | random-forests: [click me]()
 
 _______________________
 
