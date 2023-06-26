@@ -82,7 +82,7 @@ ______________________
 * Lab | lab-manipulating-data-from-multiple-sources: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_6_tableau_sql/lab-tableau-manipulating-data-from-multiple-sources)
 * Lab | lab-grouping-data: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-grouping-data/files_for_lab/grouping_data.url)
 * Lab | lab-lod-expressions-dashboards: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-lod-expressions-dashboards/load_expressions_and_dashboards.url)
-* Lab | lab-aggregation-revisited-subqueries: [click me]()
+* Lab | lab-aggregation-revisited-subqueries: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-aggregation-revisited-subqueries/imb_solution.sql)
 * Lab | lab-stored-procedures: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-stored-procedures/imb_solution_last_sql.sql)
 * Lab | lab-sql-iterations: [click me]()
 * Lab | lab-extra-streamlit: [click me]()
