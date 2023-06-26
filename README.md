@@ -46,13 +46,13 @@ _______________________
 ______________________
 
 ### **unit_3** | moar SQL
-* Lab | sql-join: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_3_sql/lab_sql_join)
-* Lab | sql-multiple-joins: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_3_sql/lab_sql_multiple_joins)
-* Lab | sql-self-and-cross-join: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql/lab_sql_self_and_cross_join_imb_solution.sql)
-* Lab | sql-subqueries: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql/lab_sql_subqueries_imb_solution.sql)
-* Lab | sql-advanced-queries: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql/lab_sql_advancedqueries_imb_solution.sql)
+* Lab | sql-join: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_3_sql_py/lab_sql_join)
+* Lab | sql-multiple-joins: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_3_sql_py/lab_sql_multiple_joins)
+* Lab | sql-self-and-cross-join: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql_py/lab_sql_self_and_cross_join_imb_solution.sql)
+* Lab | sql-subqueries: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql_py/lab_sql_subqueries_imb_solution.sql)
+* Lab | sql-advanced-queries: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_3_sql_py/lab_sql_advancedqueries_imb_solution.sql)
 * Lab | sql-python-logistic-regression: [click me](https://github.com/isi-mube/movie-rent-predictor)
-* Lab | imbalanced-data: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_3_sql/lab-imbalanced-data)
+* Lab | imbalanced-data: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_3_sql_py/lab-imbalanced-data)
 
 _______________________
 
@@ -62,14 +62,14 @@ _______________________
 ______________________
 
 ### **unit_4** | python, tableau
-* Lab | lab-cleaning-numerical-data: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_4_py/lab-cleaning-numerical-data)
-* Lab | lab-cleaning-categorical-data: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_4_py/lab-cleaning-categorical-data)
-* Lab | lab-feature-extraction: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_4_py/lab-feature-extraction)
-* Lab | lab-data-cleaning-and-wrangling: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_4_py/lab-data-cleaning-and-wrangling/02_solution/imb_solution.ipynb)
-* Lab | lab-comparing-regression-models: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_4_py/lab-comparing-regression-models/02_solution/imb_solution.ipynb)
-* Lab | lab-random-variable-distributions: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_4_py/lab-random-variable-distributions/imb_solution.ipynb)
-* Lab | lab-getting-started-with-tableau: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_4_py/lab-getting-started-with-tableau/imb_solution.ipynb)
-* Lab | lab-dashboards-with-tableau: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-lod-expressions-dashboards/load_expressions_and_dashboards.url)
+* Lab | lab-cleaning-numerical-data: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_4_py_tableau/lab-cleaning-numerical-data)
+* Lab | lab-cleaning-categorical-data: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_4_py_tableau/lab-cleaning-categorical-data)
+* Lab | lab-feature-extraction: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_4_py_tableau/lab-feature-extraction)
+* Lab | lab-data-cleaning-and-wrangling: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_4_py_tableau/lab-data-cleaning-and-wrangling/02_solution/imb_solution.ipynb)
+* Lab | lab-comparing-regression-models: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_4_py_tableau/lab-comparing-regression-models/02_solution/imb_solution.ipynb)
+* Lab | lab-random-variable-distributions: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_4_py_tableau/lab-random-variable-distributions/imb_solution.ipynb)
+* Lab | lab-getting-started-with-tableau: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_4_py_tableau/ab-getting-started-with-tableau/imb_solution.ipynb)
+* Lab | lab-dashboards-with-tableau: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_4_py_tableau/lab-dashboards-with-tableau/dashboards_with_tableau.url)
 
 ______________________
 
