@@ -84,10 +84,6 @@ ______________________
 * Lab | lab-lod-expressions-dashboards: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-lod-expressions-dashboards/load_expressions_and_dashboards.url)
 * Lab | lab-aggregation-revisited-subqueries: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-aggregation-revisited-subqueries/imb_solution.sql)
 * Lab | lab-stored-procedures: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-stored-procedures/imb_solution_last_sql.sql)
-* Lab | lab-sql-iterations: [click me]()
-* Lab | lab-extra-streamlit: [click me]()
-* Lab | lab-macros-intro: [click me]()
-* Lab | lab-macros-automated-report-generation: [click me]()
 
 ______________________
 
