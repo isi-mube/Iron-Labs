@@ -69,7 +69,7 @@ ______________________
 * Lab | lab-comparing-regression-models: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_4_py/lab-comparing-regression-models/02_solution/imb_solution.ipynb)
 * Lab | lab-random-variable-distributions: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_4_py/lab-random-variable-distributions/imb_solution.ipynb)
 * Lab | lab-getting-started-with-tableau: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_4_py/lab-getting-started-with-tableau/imb_solution.ipynb)
-* Lab | lab-dashboards-with-tableau: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_4_py/lab-dashboards-with-tableau)
+* Lab | lab-dashboards-with-tableau: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-lod-expressions-dashboards/load_expressions_and_dashboards.url)
 
 ______________________
 
@@ -81,7 +81,7 @@ ______________________
 ### **unit_6** | python, SQL, tableau, excel
 * Lab | lab-manipulating-data-from-multiple-sources: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_6_tableau_sql/lab-tableau-manipulating-data-from-multiple-sources)
 * Lab | lab-grouping-data: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-grouping-data/files_for_lab/grouping_data.url)
-* Lab | lab-lod-expressions-dashboards: [click me]()
+* Lab | lab-lod-expressions-dashboards: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-lod-expressions-dashboards/load_expressions_and_dashboards.url)
 * Lab | lab-aggregation-revisited-subqueries: [click me]()
 * Lab | lab-stored-procedures: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_6_tableau_sql/lab-stored-procedures/imb_solution_last_sql.sql)
 * Lab | lab-sql-iterations: [click me]()
