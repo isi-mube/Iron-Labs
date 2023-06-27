@@ -8,7 +8,6 @@ _______________________
   
 ______________________
 ### **unit_1** | bash, git, python
-* activities: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_1_py/Activites)
 * Lab | bash: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_1_py/lab-bash)
 * Lab | git: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_1_py/lab-git)
 * Lab | customer-analysis-round-1: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_1_py/lab-customer-analysis-round-1)
@@ -23,7 +22,6 @@ ______________________
 _______________________
 
 ### **unit_2** | SQL
-* activities: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_2_sql/Activities)
 * Lab | sql-intro: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_2_sql/lab-sql-intro)
 * Lab | sql-basics: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_2_sql/lab-sql-basics)
 * Lab | sql-1: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_1_py/lab-bash)
