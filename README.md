@@ -94,8 +94,8 @@ ______________________
 * Lab | lab-t-tests-p-values: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-t-tests-p-values/imb_solution.ipynb)
 * Lab | lab-inferential-statistics-anova: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-inferential-statistics-anova/imb_solution.ipynb)
 * Lab | lab-handling-data-imbalance-in-classification-models: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-handling-data-imbalance-classification/imb_solution.ipynb)
-* Lab | lab-cross-validation: [don't click me yet]()
-* Lab | random-forests: [don't click me yet]()
+* Lab | lab-cross-validation: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-cross-validation/imb_solution.ipynb)
+* Lab | random-forests: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-random-forests/imb_solution.ipynb)
 
 _______________________
 
