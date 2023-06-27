@@ -8,7 +8,6 @@ _______________________
   
 ______________________
 ### **unit_1** | bash, git, python
-* activities: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_1_py/Activites)
 * Lab | bash: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_1_py/lab-bash)
 * Lab | git: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_1_py/lab-git)
 * Lab | customer-analysis-round-1: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_1_py/lab-customer-analysis-round-1)
@@ -23,7 +22,6 @@ ______________________
 _______________________
 
 ### **unit_2** | SQL
-* activities: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_2_sql/Activities)
 * Lab | sql-intro: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_2_sql/lab-sql-intro)
 * Lab | sql-basics: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_2_sql/lab-sql-basics)
 * Lab | sql-1: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_1_py/lab-bash)
@@ -94,8 +92,8 @@ ______________________
 * Lab | lab-t-tests-p-values: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-t-tests-p-values/imb_solution.ipynb)
 * Lab | lab-inferential-statistics-anova: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-inferential-statistics-anova/imb_solution.ipynb)
 * Lab | lab-handling-data-imbalance-in-classification-models: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_7_py/lab-handling-data-imbalance-classification/imb_solution.ipynb)
-* Lab | lab-cross-validation: [don't click me yet]()
-* Lab | random-forests: [don't click me yet]()
+* Lab | lab-cross-validation: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-cross-validation/imb_solution.ipynb)
+* Lab | random-forests: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-random-forests/imb_solution.ipynb)
 
 _______________________
 
@@ -105,8 +103,8 @@ _______________________
 ______________________
 
 ### **unit_8** | python, web scrapping, api
-* Lab | lab-rweb-scraping-single-page: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-web-scraping-single-page/imb_solution.ipynb)
-* Lab | lab-rweb-scraping-multiple-pages: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_8_py/lab-web-scraping-multiple-pages)
+* Lab | lab-web-scraping-single-page: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-web-scraping-single-page/imb_solution.ipynb)
+* Lab | lab-web-scraping-multiple-pages: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_8_py/lab-web-scraping-multiple-pages)
 * Lab | lab-working-with-api: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-working-with-api/imb_solution.ipynb)
 
 ______________________
