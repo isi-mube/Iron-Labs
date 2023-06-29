@@ -97,8 +97,8 @@ ______________________
 
 _______________________
 
-### **When-You-Wish-Upon-A-Star** | Image Classification, TensorFlow & Keras Practice
-* [Click me](https://github.com/isi-mube/When-You-Wish-Upon-A-Star) | Computer Vision
+### **cosmic-compendium** | Image Classification, TensorFlow & Keras Practice
+* [Click me](https://github.com/isi-mube/cosmic-compendium) | Computer Vision
 
 ______________________
 
@@ -107,4 +107,5 @@ ______________________
 * Lab | lab-web-scraping-multiple-pages: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_8_py/lab-web-scraping-multiple-pages)
 * Lab | lab-working-with-api: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-working-with-api/imb_solution.ipynb)
 * Lab | lab-api-wrappers: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-api-wrappers/imb_solution.ipynb)
+* Lab | lab-unsupervised-learning-intro: [don't click me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ______________________
