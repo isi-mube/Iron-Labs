@@ -107,5 +107,5 @@ ______________________
 * Lab | lab-web-scraping-multiple-pages: [click me](https://github.com/isi-mube/iron-labs/tree/main/unit_8_py/lab-web-scraping-multiple-pages)
 * Lab | lab-working-with-api: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-working-with-api/imb_solution.ipynb)
 * Lab | lab-api-wrappers: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-api-wrappers/imb_solution.ipynb)
-* Lab | lab-unsupervised-learning-intro: [don't click me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* Lab | lab-unsupervised-learning-intro: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-unsupervised-learning-intro/imb_solution.ipynb)
 ______________________
