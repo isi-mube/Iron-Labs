@@ -1,0 +1,33 @@
+artist,album,song,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+Marea,Coces al Aire 1997-2007,Corazon de mimbre,0.521,0.928,9,-3.548,0,0.0837,0.0235,0.0,0.0961,0.323,90.555
+Passion Pit,Gossamer,Take a Walk,0.566,0.755,11,-5.526,1,0.0368,0.0338,0.0,0.315,0.445,101.006
+Fleetwood Mac,Tango In the Night (Deluxe Edition),Everywhere - 2017 Remaster,0.73,0.487,4,-10.991,1,0.0303,0.258,0.01,0.0852,0.731,114.965
+Love of Lesbian,Manifiesto delirista,Manifiesto delirista,0.62,0.785,0,-6.32,1,0.0328,0.374,1.03e-05,0.0932,0.395,110.032
+Solar Fake,You Win. Who Cares?,A Bullet Left for You,0.633,0.831,9,-5.943,1,0.0283,0.000675,0.00771,0.28,0.445,136.016
+Matt Simons,After The Landslide (Remix),After The Landslide - Remix,0.549,0.793,6,-4.28,1,0.0357,0.0602,0.0,0.151,0.334,120.042
+Qntal,VI - Translucida,Passacaglia,0.51,0.89,2,-6.648,1,0.0974,0.0153,0.0274,0.124,0.593,139.017
+Alice Cooper,Trash,Poison,0.28,0.908,2,-5.509,0,0.109,0.0327,8.85e-06,0.18,0.26,118.698
+Matisyahu,Spark Seeker,Live Like A Warrior,0.411,0.811,10,-4.948,1,0.145,0.0753,3.8e-06,0.388,0.356,88.747
+RAC,Strangers,Let Go,0.746,0.84,5,-5.891,1,0.0331,0.0917,0.0156,0.351,0.734,110.0
+Nickelback,Here and Now (Audio Only Version),Trying Not to Love You,0.473,0.924,11,-4.297,0,0.0446,0.0132,0.0,0.184,0.41,160.017
+Franz Liszt,Valentina Lisitsa Plays Liszt,"Hungarian Rhapsody No. 12 in C sharp minor, S.244",0.384,0.0867,1,-23.693,0,0.046,0.987,0.771,0.0862,0.0804,106.264
+Rammstein,Liebe ist für alle da (Special Edition),Liebe ist für alle da,0.394,0.959,6,-3.52,1,0.0768,0.000208,0.0916,0.114,0.429,180.049
+Red Hot Chili Peppers,Californication (Deluxe Edition),Otherside,0.458,0.795,0,-3.265,1,0.0574,0.00316,0.000202,0.0756,0.513,123.229
+Backstreet Boys,Millennium,I Want It That Way,0.689,0.694,6,-5.83,0,0.027,0.257,0.0,0.148,0.482,99.039
+Radiohead,In Rainbows,Bodysnatchers,0.343,0.977,2,-4.993,1,0.0579,0.00455,0.0197,0.0948,0.727,166.664
+Whitesnake,Whitesnake (2018 Remaster),Is This Love - 2018 Remaster,0.263,0.759,0,-7.288,1,0.0431,0.0555,0.0,0.231,0.429,179.904
+Heroes Del Silencio,El Espíritu Del Vino- Edición Especial,La sirena varada,0.416,0.924,8,-3.836,0,0.0767,0.0302,0.0,0.0687,0.691,160.046
+The Sound,Jeopardy,I Can't Escape Myself,0.766,0.46,1,-12.555,0,0.408,0.0498,0.00885,0.129,0.58,153.335
+Shawn Mendes,Lost In Japan (Remix),Lost In Japan - Remix,0.706,0.855,10,-5.377,1,0.215,0.0911,0.0,0.347,0.293,107.184
+Patrick Cassidy,Hannibal - Original Motion Picture Soundtrack,Vide Cor Meum,0.12,0.224,9,-16.398,1,0.0465,0.968,0.587,0.051,0.0361,84.442
+Fuel Fandango,Origen,Mi danza (feat. Dani de Morón),0.712,0.683,9,-5.444,0,0.0841,0.259,0.0,0.0749,0.213,130.01
+Eluveitie,Slania,Inis Mona,0.43,0.991,2,-2.837,0,0.0916,0.000343,0.00249,0.416,0.276,107.031
+Michael Jackson,Thriller 25 Super Deluxe Edition,Billie Jean,0.92,0.654,11,-3.051,0,0.0401,0.0236,0.0153,0.036,0.847,117.046
+Fools Garden,Dish Of The Day,Lemon Tree,0.663,0.475,1,-8.834,1,0.0417,0.643,0.0,0.122,0.644,143.175
+The Dø,"Shake, Shook, Shaken","Despair, Hangover & Ecstasy",0.606,0.902,2,-4.129,0,0.0746,0.0252,0.0,0.181,0.611,142.95
+ZOO,Tempestes Vénen del Sud,Estiu,0.644,0.671,1,-6.395,1,0.389,0.0452,0.0,0.0824,0.966,88.015
+Glen Hansard,Music From The Motion Picture Once,Falling Slowly,0.34,0.209,0,-11.869,1,0.0279,0.679,0.000443,0.101,0.151,137.042
+Road Ramos,¿Qué sueñan los perros?,El Día Que Quieras,0.624,0.632,6,-6.225,0,0.0348,0.418,0.0,0.372,0.622,148.027
+Robin Schulz,Sugar,Sugar (feat. Francesco Yates),0.636,0.815,5,-5.098,0,0.0581,0.0185,0.0,0.163,0.636,123.063
+Babi,Colegas,Colegas,0.774,0.458,0,-8.56,1,0.149,0.693,8.46e-05,0.111,0.371,111.131
+ONE OK ROCK,Eye of the Storm,Letting Go,0.803,0.662,9,-6.226,1,0.0547,0.341,0.000188,0.0888,0.404,97.997
