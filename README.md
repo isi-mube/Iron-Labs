@@ -109,3 +109,6 @@ ______________________
 * Lab | lab-api-wrappers: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-api-wrappers/imb_solution.ipynb)
 * Lab | lab-unsupervised-learning-intro: [click me](https://github.com/isi-mube/iron-labs/blob/main/unit_8_py/lab-unsupervised-learning-intro/imb_solution.ipynb)
 ______________________
+
+### **cytology-codex** | final-project | Multiple Multiclassification, TensorFlow & Keras Practice
+* [Click me](https://github.com/isi-mube/cytology-codex) | Computer Vision
